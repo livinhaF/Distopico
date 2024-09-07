@@ -19,15 +19,15 @@ function pesquisar() {
   let resultados = "";
   let titulo = "";
   let descricao = "";
-  //let tags = "";
+  let tags = "";
 
   // Itera sobre cada elemento (dado) do array de dados
   for (let dado of dados) {
     titulo = dado.titulo.toLocaleLowerCase()
     descricao = dado.descricao.toLocaleLowerCase()
-    //tags = dado.tags.toLocaleLowerCase() //incluir no if || tags.includes(campoPesquisa)
+    tags = dado.tags.toLocaleLowerCase() //incluir no if || tags.includes(campoPesquisa)
     if (titulo.includes(campoPesquisa) ||
-      descricao.includes(campoPesquisa)) {
+      descricao.includes(campoPesquisa) || tags.includes(campoPesquisa)) {
       // Cria um novo elemento
       resultados += `
         <div class="item-resultado">
@@ -87,5 +87,3 @@ function pesquisar() {
 function fecharTelaPreta() {
   telaPreta.remove();
 }
-
-
