@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este projeto web permite que você explore o fascinante mundo das distopias através de uma interface intuitiva. 
+Este projeto web, desenvolvido no "Imersão Dev com Gemini" (parceria entre Alura e Google), permite que você explore o fascinante mundo das distopias através de uma interface intuitiva. 
 Realize buscas por palavras-chave e descubra livros, filmes e outros materiais relacionados ao gênero.
 Obs. O projeto está em desenvolvimento, logo haverá melhorias.
 
