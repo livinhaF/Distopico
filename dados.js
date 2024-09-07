@@ -49,6 +49,47 @@ let dados = [
         link: "https://youtu.be/rv-KIVdWUJE?si=RxuDS7_mS8DW7uUa",
         tags: "curiosidades os que e historia origem"
     },
+    {
+        titulo: "Jogos Vorazes - Suzanne Collins",
+        link:"https://www.amazon.com.br/Jogos-Vorazes-1-Suzanne-Collins/dp/8579800242",
+        descricao: "Uma trilogia que se tornou um fenômeno mundial, 'Jogos Vorazes' narra a história de Katniss Everdeen, uma jovem que luta pela sobrevivência em um mundo dividido em distritos e dominado por uma Capital opressora.Faixa etária: A partir de 12 anos",
+        tags: "livros"
+    },
+    {
+        titulo: "Divergente - Veronica Roth",
+        link:"https://www.amazon.com.br/Divergente-Escolha-Transformar-Trilogia-Livro/dp/8579801311",
+        descricao: "Em uma sociedade dividida em facções, Beatrice Prior precisa escolher a qual grupo pertencerá. A obra explora temas como identidade, conformismo e a busca pela liberdade.Faixa etária: A partir de 13 anos",
+        tags: "livros"
+    },
+    {
+        titulo: "A Rainha Vermelha - Victoria Aveyard:",
+        link:"https://www.amazon.com.br/rainha-vermelha-Victoria-Aveyard/dp/8565765695",
+        descricao: "Uma história de rebelião e poder, onde uma jovem descobre que possui habilidades sobrenaturais e decide desafiar a ordem estabelecida.",
+        tags: "livros"
+    },
+    {
+        titulo: "O Teste - Joelle Charbonneau:",
+        link:"https://www.amazon.com.br/Trilogia-Teste-Caixa-com-Volumes/dp/8567028574",
+        descricao: "Em um futuro onde a sociedade é controlada por testes, uma jovem luta para escapar do sistema e encontrar a liberdade.",
+        tags: "historia"
+    },
+    {
+        titulo: "A Seleção - Kiera Cass:",
+        link:"https://www.amazon.com.br/sele%C3%A7%C3%A3o-Kiera-Cass/dp/8565765016",
+        descricao: "Uma mistura de romance e distopia.Uma competição real para encontrar a futura rainha, onde amor e ambição se entrelaçam em um mundo de privilégios.",
+        tags: "livros"
+    },
+    {
+        titulo: "1984 - George Orwell",
+        link:"https://www.amazon.com.br/1984-George-Orwell/dp/8535914846",
+        descricao: "Um dos clássicos mais famosos do gênero, '1984' retrata um mundo totalitário onde o Grande Irmão vigia cada movimento dos cidadãos. A obra explora temas como vigilância, manipulação e a luta pela individualidade.Faixa etária: A partir de 15 anos.",
+        tags: "livros"
+    },
+    {
+        titulo: "Fahrenheit 451 - Ray Bradbury",
+        link:"https://www.amazon.com.br/Fahrenheit-451-Ray-Bradbury/dp/8525052248",
+        descricao: "Em um futuro onde os livros são proibidos e queimados, um bombeiro tem a missão de destruir a literatura. A obra reflete sobre a importância da cultura e do conhecimento.Faixa etária: A partir de 14 anos.",
+        tags: "livros"
+    },
    
 ]
-
